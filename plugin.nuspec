@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>com.castsoftware.uc.liferay</id>
+    <version>1.0.8</version>
+    <title>Liferay Spring MVC Portlet support</title>
+    <authors>CAST User Community</authors>
+    <owners>CAST</owners>
+    <licenseUrl>https://extend.castsoftware.com/V2/Licenses/Cast-Licence-UserCommunity-1.0.html</licenseUrl>
+    <projectUrl>https://github.com/CAST-Extend/com.castsoftware.uc.liferay</projectUrl>
+    <iconUrl>https://github.com/CAST-Extend/com.castsoftware.uc.liferay/blob/master/Liferaylogo.png?raw=true</iconUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This plugin provides a Liferay Spring MVC Portlet support.</description>
+    <tags>CASTUserCommunity techno:JEE Liferay CSS</tags>
+    <releaseNotes />
+    <dependencies>
+      <dependency id="CAIP" version="8.0.0" />
+      <dependency id="com.castsoftware.springmvc" version="1.1.0-funcrel" />
+    </dependencies>
+  </metadata>
+</package>
